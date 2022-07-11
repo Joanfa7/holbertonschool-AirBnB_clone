@@ -5,4 +5,8 @@ header
 	width:100%;
 	border-bottom 1px #CCCCCC;
 }
-
+.logo
+{
+	content: url("../images/logo.png");
+	margin-left: 20px;
+}
